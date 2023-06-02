@@ -1,2 +1,2 @@
-# leetcode
-list of leetcode solutions
+# About
+List of leetcode solutions of https://leetcode.com/yaxarp/
